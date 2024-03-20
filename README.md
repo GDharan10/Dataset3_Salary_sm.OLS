@@ -17,7 +17,10 @@ The "Salary_Data" dataset contains information about salaries based on years of 
 - Python
 - Pandas
 - NumPy
-- plotly.express
+- SciPy
+- Matplotlib
+- Plotly Express
+- Statsmodels
 - Jupyter Notebook
 
 ## Getting Started
