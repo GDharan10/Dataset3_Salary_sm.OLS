@@ -1,4 +1,4 @@
-# Salary-dataset-analysis 1
+# Salary-dataset-analysis
 
 ## Overview
 This repository contains the code and documentation for analyzing the "Salary_Data" dataset using Python and statistical methods. The dataset consists of various variables related to years of experience and corresponding salaries. Our goal is to explore, analyze, and draw insights from this data.
